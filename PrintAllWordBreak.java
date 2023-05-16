@@ -1,4 +1,4 @@
-	//Given a string s, break s such that every substring of the partition can be found in the dictionary. Return the minimum break needed. 
+//Given a string s, break s such that every substring of the partition can be found in the dictionary. print all the word break combination of sentence. 
 public class TreeNode{
   private TreeNode[] children;
   private boolean isEndOfWord;
